@@ -23,7 +23,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <groupId>org.teiid</groupId>
+  <groupId>io.syndesis</groupId>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>dv-server</artifactId>
   <name>DV Server</name>
